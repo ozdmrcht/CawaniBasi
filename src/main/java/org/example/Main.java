@@ -8,5 +8,8 @@ public class Main {
         System.out.println(obj1.mirror +" "+ obj1.door +" "+ obj1.mat);
 
 
+        System.out.println();
+
+
     }
 }
